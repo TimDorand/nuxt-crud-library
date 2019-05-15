@@ -1,0 +1,93 @@
+{
+  "releases": [
+    {
+      "id": 1,
+      "artist": "Ray Mona",
+      "title": "Entourage Ep",
+      "tracklist": [
+        {
+          "position": "A1",
+          "title": "Entourage",
+          "duration": "6:40"
+        },
+        {
+          "position": "A2",
+          "title": "Lost Souls",
+          "duration": "7:11"
+        },
+        {
+          "position": "B",
+          "title": "Lost Souls  (Doubtingthomas Remix)",
+          "duration": "7:34"
+        }
+      ],
+      "label": "Zingiber Audio",
+      "catalog": "ZNGBR07",
+      "year": 2019,
+      "format": "12\", 33 ⅓ RPM, 45 RPM, EP, Stereo",
+      "thumbnail": "https://img.discogs.com/HTLvQOZynjZgkPD_9jfOUC-G2Pg=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-13271327-1551110951-4626.jpeg.jpg"
+    },
+    {
+      "id": 2,
+      "artist": "Manuel De Lorenzi & Giacomo Silvestri",
+      "title": "Drink EP",
+      "tracklist": [
+        {
+          "position": "A1",
+          "title": "Drink 01",
+          "duration": "6:40"
+        },
+        {
+          "position": "A2",
+          "title": "Drink 02",
+          "duration": "7:11"
+        },
+        {
+          "position": "B1",
+          "title": "Drink 03",
+          "duration": "7:34"
+        },
+        {
+          "position": "B2",
+          "title": "Drink 04",
+          "duration": "7:34"
+        }
+      ],
+      "label": "DECO",
+      "catalog": "DECO003",
+      "year": "2019",
+      "format": "12\", 33 ⅓ RPM, EP",
+      "thumbnail": "https://img.discogs.com/f1321M9vGtLlG1uaApc6tf9Z0dY=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-13572313-1556887825-6643.jpeg.jpg"
+    },
+    {
+      "id": 7,
+      "artist": "Pijynman, Paolo Rocco",
+      "title": "Inthebooth01",
+      "label": " In The Booth Canada",
+      "catalog": " ITB 01",
+      "year": "2019",
+      "format": "Vinyl, 12\", 33 ⅓ RPM, EP, Stereo ",
+      "thumbnail": "https://img.discogs.com/klIBt5Zl_iQF71AwK6_KpMTseKI=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-13617799-1557611611-3528.jpeg.jpg"
+    },
+    {
+      "id": 8,
+      "artist": "Unknown Artist ‎",
+      "title": "Ijzeren Rots",
+      "label": "DIGWAH03",
+      "catalog": null,
+      "year": null,
+      "format": null,
+      "thumbnail": "https://img.discogs.com/4Y3J7AoL4JqQJrpYf2ZmXVe83gI=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-11424341-1522093349-7037.jpeg.jpg"
+    }
+  ],
+  "artists": [
+    {
+      "id": 1,
+      "name": "Ray Mono"
+    },
+    {
+      "id": 2,
+      "name": "DECO"
+    }
+  ]
+}
