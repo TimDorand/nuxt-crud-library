@@ -1,6 +1,7 @@
-# iim
+# vinyl library
 
-> My stupendous Nuxt.js project
+Timothée Dorand
+IIM A5 IWM
 
 ## Build Setup
 
@@ -10,13 +11,6 @@ $ yarn install
 
 # serve with hot reload at localhost:3000
 $ yarn run dev
+$ json-server --watch db.json
 
-# build for production and launch server
-$ yarn run build
-$ yarn start
-
-# generate static project
-$ yarn run generate
 ```
-
-For detailed explanation on how things work, checkout [Nuxt.js docs](https://nuxtjs.org).
